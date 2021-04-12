@@ -8,7 +8,7 @@ const HomeScreen = () => {
 			<div className="container mx-auto mt-10">
 				<h1 className="title">¡Hola y bienvenidos!</h1>
 				<p className="paragraph">
-					Mi nombre es Jhon Santana. Soy un desarollador Javascript FullStack en
+					Mi nombre es Jhon Santana. Soy un desarrollador Javascript FullStack en
 					formación.
 				</p>
 

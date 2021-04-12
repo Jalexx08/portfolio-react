@@ -8,5 +8,5 @@ My personal portfolio created with React and Tailwind CSS.
 ## Tecnologies
 
 * React 17
-* Tawilwind CSS 2.0
+* Tailwind CSS 2.0
 
