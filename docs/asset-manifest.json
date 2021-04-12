@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bfe816ab.chunk.css",
+    "main.js": "/static/js/main.8e630130.chunk.js",
+    "main.js.map": "/static/js/main.8e630130.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f55a0664.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f55a0664.js.map",
+    "static/js/2.cb85ce93.chunk.js": "/static/js/2.cb85ce93.chunk.js",
+    "static/js/2.cb85ce93.chunk.js.map": "/static/js/2.cb85ce93.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bfe816ab.chunk.css.map": "/static/css/main.bfe816ab.chunk.css.map",
+    "static/js/2.cb85ce93.chunk.js.LICENSE.txt": "/static/js/2.cb85ce93.chunk.js.LICENSE.txt",
+    "static/media/CV.935255d3.pdf": "/static/media/CV.935255d3.pdf",
+    "static/media/jassdev.66b6d890.png": "/static/media/jassdev.66b6d890.png",
+    "static/media/perfil.6d3706c4.jpg": "/static/media/perfil.6d3706c4.jpg",
+    "static/media/portada.f656f14c.jpg": "/static/media/portada.f656f14c.jpg",
+    "static/media/project-alblanco.png": "/static/media/project-alblanco.a64cebb2.png",
+    "static/media/project-blackjack.png": "/static/media/project-blackjack.d141abee.png",
+    "static/media/project-dositec.png": "/static/media/project-dositec.7911d0d0.png",
+    "static/media/project-myecol.png": "/static/media/project-myecol.4af0d79f.png",
+    "static/media/project-peliculas.png": "/static/media/project-peliculas.0358c0a9.png",
+    "static/media/project-portfolio.png": "/static/media/project-portfolio.6c32fd50.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f55a0664.js",
+    "static/js/2.cb85ce93.chunk.js",
+    "static/css/main.bfe816ab.chunk.css",
+    "static/js/main.8e630130.chunk.js"
+  ]
+}
