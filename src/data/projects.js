@@ -2,7 +2,7 @@ export const projects = [
 	{
 		id: 'project-alblanco',
 		name: 'Alblanco ',
-		url: 'https://alblanco.co/',
+		url: 'https://alblanco.netlify.app/',
 		language: 'javascript',
 		desc: `	Empresa dedicada a la personalizaciones.
 				Su sitio Web, está creado en base al framework de React y librerias 
